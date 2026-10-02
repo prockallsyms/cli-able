@@ -1,0 +1,10 @@
+{
+  "name": "cli-able",
+  "version": "0.1.0",
+  "description": "Agent skill that converts any website or API you have access to into a CLI tool",
+  "author": {
+    "name": "prockallsyms"
+  },
+  "repository": "https://github.com/prockallsyms/cli-able",
+  "keywords": ["cli", "api", "scraping", "openapi", "skill"]
+}

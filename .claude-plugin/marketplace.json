@@ -1,0 +1,14 @@
+{
+  "name": "cli-able",
+  "description": "Turn any website or API into a CLI tool",
+  "owner": {
+    "name": "prockallsyms"
+  },
+  "plugins": [
+    {
+      "name": "cli-able",
+      "source": "./",
+      "description": "Agent skill that converts any website or API you have access to into a CLI tool"
+    }
+  ]
+}
